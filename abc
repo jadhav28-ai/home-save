@@ -1,0 +1,21 @@
+
+1. pwd — show the current directory
+2. ls — list files and folders
+3. cd — change directory
+4. mkdir — create a directory
+5. touch — create an empty file
+6. cp — copy files or directories
+7. mv — move or rename files
+8. rm — remove files or directories
+9. cat — display a file’s contents
+10. less — read a file one screen at a time
+11. head — show the first lines of a file
+12. tail — show the last lines of a file
+13. grep — search text for a pattern
+14. find — locate files and directories
+15. chmod — change file permissions
+16. whoami — show the current username
+17. date — display the date and time
+18. df -h — show disk space usage
+19. du -sh — show a directory’s size
+20. man — open a command’s manual (for example, man ls)
