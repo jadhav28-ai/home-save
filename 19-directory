@@ -1,0 +1,19 @@
+ / — root of the filesystem
+ /home — users’ personal directories
+ /root — home directory for the root user
+ /bin — essential user commands
+ /sbin — essential system administration commands
+ /etc — system configuration files
+ /var — changing data, such as logs and caches
+ /tmp — temporary files
+ /usr — applications and shared files
+ /opt — optional or third-party software
+ /dev — device files
+ /proc — information about running processes and the kernel
+ /sys — information about devices and the kernel
+ /boot — files needed to start Linux
+ /lib — essential shared libraries
+ /mnt — temporary mount points
+ /media — mount points for removable drives
+ /run — runtime data for the current session
+ /srv — data provided by system services
